@@ -28,7 +28,7 @@ Compiling and running the Command Line Program:
 - include "project1.h"
 - include "project2.h"
 
-# Memory Manager
+# Memory Manager Functions
 - void CreateMemoryManager(int sizeTotal, bool bf)
 - void* mallocMem(int size, bool bf)
 - NODE* CheckBusyList(void* data)
